@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Benchmark .iml" filepath="$PROJECT_DIR$/.idea/modules/Benchmark .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Benchmark_.iml" filepath="$PROJECT_DIR$/.idea/modules/Benchmark_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Benchmark__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Benchmark__main.iml" group="Benchmark_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Benchmark__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Benchmark__test.iml" group="Benchmark_" />
+    </modules>
+  </component>
+</project>
